@@ -8,28 +8,16 @@
 Навыки:
 
 SQL 🛢
-
 Python 🐍
-
 Pandas 🐼
-
 NumPy 🔢
-
 Matplotlib 📊
-
 SciPy 🧮
-
 Seaborn 📈
-
 A/B-тестирование 🧪
-
 Статистические гипотезы 📚
-
 Plotly 🌐
-
 PostgreSQL 🗄
 Продуктовые метрики 📏
-
 Событийная аналитика 🎟
-
 Tableau 🖥
