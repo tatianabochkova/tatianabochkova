@@ -1,16 +1,35 @@
-### Hi there 👋
+### Привет! 👋
+Меня зовут Татьяна Бочкова, и я специализируюсь на анализе данных.
 
-<!--
-**tatianabochkova/tatianabochkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍🎓 Прошла курсы по аналитике от Яндекса.
 
-Here are some ideas to get you started:
+🎯 Моя цель - превращать данные в действия.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Навыки:
+
+SQL 🛢
+
+Python 🐍
+
+Pandas 🐼
+
+NumPy 🔢
+
+Matplotlib 📊
+
+SciPy 🧮
+
+Seaborn 📈
+
+A/B-тестирование 🧪
+
+Статистические гипотезы 📚
+
+Plotly 🌐
+
+PostgreSQL 🗄
+Продуктовые метрики 📏
+
+Событийная аналитика 🎟
+
+Tableau 🖥
